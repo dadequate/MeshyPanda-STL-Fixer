@@ -9,12 +9,12 @@ Fix mesh errors in 3D models with one drop!
 
 (Note: Supports both ASCII and binary STL files)
 
-✅ Drag-and-drop an STL file → repaired STL saved with `-fixed.stl`
-✅ Built-in Automator app for easy use
-✅ Uses `admesh` to repair common STL issues
-✅ macOS notification when done
-✅ Optional debug logging to `~/Desktop/meshypanda_debug_log.txt`
-✅ Command-line support for manual repair
+- ✅ Drag-and-drop an STL file → repaired STL saved with `-fixed.stl`
+- ✅ Built-in Automator app for easy use
+- ✅ Uses `admesh` to repair common STL issues
+- ✅ macOS notification when done
+- ✅ Optional debug logging to `~/Desktop/meshypanda_debug_log.txt`
+- ✅ Command-line support for manual repair
 
 ---
 
@@ -24,9 +24,9 @@ Fix mesh errors in 3D models with one drop!
 
 ### 🐱 **Option 1: Use the prebuilt Automator app**
 
-✅ Download [`MeshyPanda STL Fixer.app.zip`](./MeshyPanda-STL-Fixer.app.zip) from this repository
-✅ Unzip it
-✅ Move `MeshyPanda STL Fixer.app` to `/Applications` (or anywhere you want)
+- ✅ Download [`MeshyPanda STL Fixer.app.zip`](./MeshyPanda-STL-Fixer.app.zip) from this repository
+- ✅ Unzip it
+- ✅ Move `MeshyPanda STL Fixer.app` to `/Applications` (or anywhere you want)
 
 You can now:
 
