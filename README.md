@@ -1,3 +1,5 @@
+<img src="./media/meshy-panda-sq-logo.png" alt="MeshyPanda STL Fixer Logo" width="320"/>
+
 # 🐼 MeshyPanda STL Fixer
 
 A simple drag-and-drop STL repair tool for macOS, powered by [admesh](https://github.com/admesh/admesh).
